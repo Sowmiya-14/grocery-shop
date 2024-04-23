@@ -8,7 +8,7 @@ import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import Navbar from '../Navbar/Navbar';
 import TopSell from '../TopSell/TopSell';
-import '../Home.css'
+import "./Home.css";
 
 const Home = () => {
 

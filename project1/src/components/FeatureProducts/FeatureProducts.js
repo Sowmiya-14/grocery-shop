@@ -1,6 +1,6 @@
 import React from 'react';
 import "./FeatureProducts.css";
-import Slider from '../Slider/Slider';
+import Slider from '../SliderOne/SliderOne';
 
 
 const FeatureProducts = () => {
